@@ -19,7 +19,7 @@ This Power BI dashboard provides insights into employee performance, salary tren
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard_Screenshot.png)
+![Dashboard](dashboard_preview.png.png)
 
 ## Features
 - Interactive Filters & Slicers
