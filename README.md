@@ -28,6 +28,16 @@ This Power BI dashboard provides insights into employee performance, salary tren
 - Department Comparison
 - Employee Performance Tracking
 
+## Skills Demonstrated
+
+- Data Cleaning
+- Data Modeling
+- DAX Measures
+- Power Query
+- KPI Design
+- Dashboard Development
+- HR Analytics
+
 ## Business Impact
 This dashboard helps HR teams make data-driven decisions regarding workforce planning, employee retention, and performance management.
 
